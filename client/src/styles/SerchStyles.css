@@ -1,0 +1,18 @@
+.button{
+    border-radius: 0;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.search .card-name-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .search .card-price {
+    color: green;
+    font-weight: bold;
+  }
